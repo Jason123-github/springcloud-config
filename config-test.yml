@@ -1,2 +1,2 @@
 config:
-  test: this is dev-test
+  info: "master branch,springcloud-config/config-test.yml version=3" 
